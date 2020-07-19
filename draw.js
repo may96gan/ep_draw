@@ -3,7 +3,7 @@ var settings = require('ep_etherpad-lite/node/utils/Settings');
 var drawString = "";
 
 exports.eejsBlock_editbarMenuLeft = function (hook_name, args, cb) {
-  args.content = args.content + eejs.require("ep_draw/templates/editbarButtons.ejs");
+  args.content = args.content + eejs.require("ep_whiteboard/templates/editbarButtons.ejs");
   return cb();
 }
 
