@@ -1,25 +1,40 @@
+  GNU nano 2.9.3                                                            package.json                                                                       
+
 {
-  "name": "ep_draw",
-  "description": "Really real time Collaborative painting and drawing with Etherpad",
+  "name": "ep_whiteboard",
+  "description": "Real-time drawing with the WBO Whiteboard project as an etherpad plugin (forked from ep_draw).",
   "version": "0.1.1",
   "author": {
-    "name": "johnyma22",
-    "email": "john@mclear.co.uk",
-    "url": "John McLear"
+    "name": "jibsil",
+    "email": "jib@crystalvms.com",
+    "url": "JIBSIL"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnmclear/ep_draw"
+    "url": "https://github.com/JIBSIL/ep_draw"
   },
   "contributors": [],
   "dependencies": {},
   "engines": {
     "node": "*"
   },
-  "_id": "ep_draw@0.1.1",
+  "_id": "ep_whiiteboard@0.0.1",
   "readme": "ERROR: No README.md file found!",
   "dist": {
     "shasum": "927231aee0f19afa7a80fbfff8348401f15b0595"
   },
   "_from": "ep_draw"
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
