@@ -3,11 +3,11 @@
     {
       "name": "draw",
       "client_hooks": {
-        "postAceInit": "ep_draw/static/js/draw"
+        "postAceInit": "ep_whiteboard/static/js/draw"
       },
       "hooks": {
-        "eejsBlock_editbarMenuLeft": "ep_draw/draw",
-        "clientVars":"ep_draw/draw:clientVars"
+        "eejsBlock_editbarMenuLeft": "ep_whiteboard/draw",
+        "clientVars":"ep_whiteboard/draw:clientVars"
       }
     }
   ]
