@@ -1,6 +1,8 @@
 # Drawing and painting in Etherpad
 
-You must be running an instance [Etherdraw](https://github.com/JohnMcLear/draw).
+Forked to use WBO. To use Jitsi Meet, use 
+
+https://github.com/lovasoa/whitebophir/wiki/WBO-Jitsi-integration
 
 In your `settings.json`, add:
 
