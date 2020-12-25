@@ -1,4 +1,4 @@
-Copyright 2020 John McLear
+Copyright 2020 John McLear & JIBSIL
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
