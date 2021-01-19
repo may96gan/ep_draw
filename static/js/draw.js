@@ -14,6 +14,7 @@ var postAceInit = function(hook, context){
     }
 
     $('.toggle_draw').click(function() {
+      alert('clicked!');
       toggledraw();
     });
   }
@@ -86,6 +87,8 @@ function hidedraw(){
 }
 
 function toggledraw(){
+  alert(clientVars.ep_draw.visible);
+  alert(clientVars.ep_draw.fullscreen);
   if(clientVars.ep_draw.visible === true && clientVars.ep_draw.fullscreen){
     hidedraw();
     return;
